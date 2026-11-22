@@ -97,7 +97,9 @@ The notebook creates a small **synthetic dataset of 20 students**. The data is w
 ## 🖼 Visualizations
 | Confusion Matrix | Decision Tree |
 |---|---|
-| ![Confusion Matrix](images/confusion_matrix.png) | ![Decision Tree](images/decision_tree.png) |
+| ![Confusion Matrix](<img width="1544" height="1176" alt="confusion_matrix (1)" src="https://github.com/user-attachments/assets/662a2516-7362-4d73-b06a-fb2950732fbf" />
+) | ![Decision Tree](<img width="3780" height="1971" alt="decision_tree" src="https://github.com/user-attachments/assets/17cec0bd-48f5-427f-834e-c21397647bdb" />
+) |
 
 ---
 
